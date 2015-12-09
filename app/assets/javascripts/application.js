@@ -25,4 +25,5 @@
 //= require_tree ./profile
 //= require_tree ./register
 //= require_tree ./change-password
+//= require_tree ./forgot-password
 //= require_tree .
