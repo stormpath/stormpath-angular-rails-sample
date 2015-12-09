@@ -53,6 +53,7 @@ GEM
       thread_safe (~> 0.3, >= 0.3.1)
     binding_of_caller (0.7.2)
       debug_inspector (>= 0.0.1)
+    bower-rails (0.10.0)
     builder (3.2.2)
     byebug (8.2.1)
     coercible (1.0.0)
@@ -182,6 +183,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bower-rails
   byebug
   coffee-rails (~> 4.1.0)
   jbuilder (~> 2.0)

@@ -10,6 +10,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
+gem 'bower-rails' 
 gem 'stormpath-rails', git: 'https://github.com/stormpath/stormpath-rails', branch: 'frontend_support'
 
 group :development, :test do
