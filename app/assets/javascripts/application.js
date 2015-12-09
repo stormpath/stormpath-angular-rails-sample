@@ -26,4 +26,5 @@
 //= require_tree ./register
 //= require_tree ./change-password
 //= require_tree ./forgot-password
+//= require_tree ./verify-email
 //= require_tree .
