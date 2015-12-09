@@ -23,4 +23,5 @@
 //= require_tree ./home
 //= require_tree ./login
 //= require_tree ./profile
+//= require_tree ./register
 //= require_tree .
