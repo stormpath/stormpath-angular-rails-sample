@@ -18,4 +18,6 @@
 //= require stormpath-sdk-angularjs
 //= require stormpath-sdk-angularjs.tpls.min
 //= require app
+//
+//= require_tree ./navbar
 //= require_tree .
