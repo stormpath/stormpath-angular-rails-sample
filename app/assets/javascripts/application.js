@@ -21,4 +21,5 @@
 //
 //= require_tree ./navbar
 //= require_tree ./home
+//= require_tree ./login
 //= require_tree .
