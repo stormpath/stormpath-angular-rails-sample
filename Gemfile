@@ -12,6 +12,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'bower-rails' 
 gem 'stormpath-rails', git: 'https://github.com/stormpath/stormpath-rails', branch: 'frontend_support'
+gem 'twitter-bootstrap-rails'
+gem 'angular_rails_csrf'
 
 group :development, :test do
   gem 'byebug'
