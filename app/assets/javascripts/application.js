@@ -14,4 +14,7 @@
 //= require jquery_ujs
 //= require angular
 //= require angular-ui-router
+//= require stormpath-sdk-angularjs
+//= require stormpath-sdk-angularjs.tpls.min
+//= require app
 //= require_tree .
