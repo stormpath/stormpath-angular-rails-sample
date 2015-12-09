@@ -20,4 +20,5 @@
 //= require app
 //
 //= require_tree ./navbar
+//= require_tree ./home
 //= require_tree .
