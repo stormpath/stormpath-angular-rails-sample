@@ -8,7 +8,13 @@
 </head>
 <body ng-app="exampleApp">
 
-  <div ui-view=""></div>
+  <div if-user-state-unknown>
+    <div ng-include="'<%= asset_path('spinner/spinner.html') %>'"></div>
+  </div>
+  <div if-user-state-known>
+    <div ng-include="'<%= asset_path('navbar/navbar.html') %>'"></div>
+    <div ui-view=""></div>
+  </div>
 
 </body>
 </html>
