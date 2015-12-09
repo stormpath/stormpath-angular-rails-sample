@@ -22,7 +22,7 @@ command:
 bundle install
 ```
 
-If everythins is installed successful you can continue on to configuration.
+If everything is installed successfuly, you can continue on to configuration.
 
 ## 3. Configuration
 
